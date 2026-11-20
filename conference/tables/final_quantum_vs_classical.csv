@@ -1,0 +1,6 @@
+Method,Selected_Idx,Objective_J,Gap_Pct,Evals,Runtime_s
+Exhaustive Grid (Ground Truth),12,18.9598,0.0,16,0.001
+"QAOA (p=1, 5-Start COBYLA)",0,19.7195,4.01,250,0.1889
+"QAOA (p=2, 5-Start COBYLA)",0,19.7195,4.01,250,0.1948
+"QAOA (p=3, 5-Start COBYLA)",0,19.7195,4.01,250,0.1919
+Classical Random Search,12,18.9598,0.0,250,0.0001

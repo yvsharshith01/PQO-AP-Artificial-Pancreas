@@ -1,0 +1,4 @@
+Optimizer,Selected_Idx,Objective_Cost,Evals,Runtime_s
+Exhaustive Grid (Ground Truth),12,18.9598,16,0.001
+"QAOA (p=2, COBYLA Emulator)",0,19.7195,61,0.0908
+Classical Random Search,12,18.9598,60,0.0014
